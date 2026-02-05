@@ -49,11 +49,7 @@ env.bak/
 .coverage
 htmlcov/
 
-# Models and data (if large)
-*.pkl
-*.h5
-*.pt
-*.pth
+
 
 # Logs
 *.log
